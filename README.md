@@ -13,7 +13,7 @@ Página web personal donde se muestran mis trabajos, habilidades y proyectos rel
 - JavaScript  
 - HTML / CSS  
 
-## Demo en vivo
+## Demo
 
 Puedes ver el proyecto funcionando en:  
 [https://ivan-mansilla.vercel.app/](https://ivan-mansilla.vercel.app/)
