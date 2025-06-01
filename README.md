@@ -17,4 +17,4 @@ Este proyecto contiene la página web personal de Iván Mansilla, donde se muest
 
 1. Clona el repositorio:
    ```bash
-   git clone https://tu-repositorio.git
+   git clone https://github.com/srfifu/portafolio.git
