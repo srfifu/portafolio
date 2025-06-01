@@ -1,25 +1,25 @@
 # Portafolio de Iván Mansilla
 
-Este es el repositorio del portafolio personal de Iván Mansilla, desarrollado con Vite y React.
+Repositorio del portafolio personal de Iván Mansilla, desarrollado con Vite y React.
 
 ## Descripción
 
-Este proyecto contiene la página web personal de Iván Mansilla, donde se muestran sus trabajos, habilidades y proyectos relacionados con desarrollo web.
+Página web personal donde se muestran mis trabajos, habilidades y proyectos relacionados con desarrollo web.
 
 ## Tecnologías usadas
 
-- React
-- Vite
-- JavaScript
-- HTML / CSS
+- React  
+- Vite  
+- JavaScript  
+- HTML / CSS  
 
-## Demo
-   ```bash
-   demo https://ivan-mansilla.vercel.app/
-   
-## Instalación
+## Demo en vivo
 
-1. Clona el repositorio:
+Puedes ver el proyecto funcionando en:  
+[https://ivan-mansilla.vercel.app/](https://ivan-mansilla.vercel.app/)
+
+## Cómo usar este proyecto
+
+1. Clona el repositorio:  
    ```bash
    git clone https://github.com/srfifu/portafolio.git
-   
